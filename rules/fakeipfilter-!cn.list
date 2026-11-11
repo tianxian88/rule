@@ -78,3 +78,8 @@ na.b.g-tun.com
 +.media.dssott.com
 #Wifi Calling
 +.pub.3gppnetwork.org
+#armbian  debian 
+*.debian.org
+*.armbian.com
+*.auroradev.org
+*.proxmox.com
