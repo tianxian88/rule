@@ -112,6 +112,14 @@ ps.res.netease.com
 +.stun.*.*.*.cn
 +.stun.*.*.*.*.cn
 stun.*.cn
+#自有域名服务
+*.sunhome.cloudns.org
+*.sunhb.ip-ddns.com
+*.sunn.ddns-ip.net
+*.sunn.eu.cc
+*.sunhb.eu.cc
+*.sunnet.eu.cc
+*.sunnas.qzz.io
 stun.*.*.cn
 #Steam 国内 CDN
 alibaba.cdn.steampipe.steamcontent.com
